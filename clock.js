@@ -6,7 +6,7 @@ function Clock() {
 
     session = "AM"
     if (hours < 12) {
-        sessiohn = "AM";
+        session = "AM";
     } else {
         session = "PM";
     }
